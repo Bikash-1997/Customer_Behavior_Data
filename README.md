@@ -219,7 +219,7 @@ Open the Gamma presentation link (or PDF in presentation/ folder).
 8. Contact
 Your Name
 Email: your.email@example.com
-LinkedIn: https://linkedin.com/in/your-profile
-GitHub: https://github.com/your-username
+LinkedIn: https://linkedin.com/in/http/www.linkedin.com/in/bikashchandrasahoo1997
+GitHub: https://github.com/Bikash-1997
 
-If you want, I can also convert this into a GitHub-ready Markdown file, or tailor it to your exact dataset and tools.
+
